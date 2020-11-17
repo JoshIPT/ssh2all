@@ -1,8 +1,7 @@
 # ssh2all
 Run commands on multiple remote hosts over SSH
 ## Requirements
-PHP CLI and sshpass
-These can be installed on Debian-based systems by running:
+PHP CLI and sshpass are required. These can be installed on Debian-based systems by running:
 ```apt install php-cli sshpass -y```
 
 ## Configuration
