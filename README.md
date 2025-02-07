@@ -1,5 +1,9 @@
 # ssh2all
 Run commands on multiple remote hosts over SSH
+
+# Successor
+The successor to this little tool is my SSH Commander tool. It is superior in every way. [Get it on Github](https://github.com/AthenaNetworks/ssh_commander)
+
 ## Requirements
 PHP CLI and sshpass are required. These can be installed on Debian-based systems by running:
 ```apt install php-cli sshpass -y```
